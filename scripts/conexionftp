@@ -1,0 +1,14 @@
+#!/home/danigm/Descargas/kermit/wermit +
+ftp open linuxhispano.net /user:linuxhis
+cd /public_html/tira
+put ../\%1.png
+#put ../linuxhispano.xml
+put ../vinieta.png
+cd /public_html/tira/pub/
+put ../pub/ultima.txt
+put ../pub/archivo.html
+put ../pub/lista.txt
+put ../pub/traduccion.txt
+cd /public_html/tira/com/
+put ../com/\%1.lhcmt
+bye

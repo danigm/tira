@@ -1,0 +1,242 @@
+/*bordes redondeados*/
+    div#nifty{ margin: 1% ;background: #FFF; text-align: left;}
+    b.rtop, b.rbottom{display:block;background: rgb(102, 153, 204)}
+    b.rtop b, b.rbottom b{display:block;height: 1px;
+    overflow: hidden; background: #FFF}
+    b.r1{margin: 0 5px}
+    b.r2{margin: 0 3px}
+    b.r3{margin: 0 2px}
+    b.rtop b.r4, b.rbottom b.r4{margin: 0 1px;height: 2px}
+/*bordes redondeados*/
+
+#head2 {
+	background-color: rgb(255, 0, 0);
+	border: 1px black dotted;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#tira {
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	margin-left: 1%;
+	margin-right: 1%;
+	padding: 2%;
+	border-bottom: 1px black dotted;
+	border-top: 1px black dotted;
+}
+
+body {
+	color: blue;
+	text-size: 12px;
+	text-align: center;
+	background-color: rgb(102, 153, 204);
+}
+img {
+	border: none;
+}
+
+a:link {
+	color: #0000ff;
+}
+a:visited {
+	color: #333344;
+}
+a:hover {
+	color: #ffffff;
+}
+a:active {
+	color: #000000;
+}
+input {
+	border: 1px solid #222222;
+	background-color: #FAFAFA;
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	margin-bottom: 1px;
+	cursor: default;
+}
+button {
+	border: 2px solid #333333;
+	background-color: #eeeeee;
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	margin-bottom: 1px;
+	cursor: default;
+}
+textarea {
+	border: 1px solid #222222;
+	background-color: #FAFAFA;
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 1px;
+	cursor: default;
+}
+
+.com{
+	color: black;
+	background-color: #fff;
+}
+
+.com th{
+	border: 2px solid black;
+	background-color: #fff;
+}
+
+.com td{
+	font-size: 12px;
+}
+
+.color0{
+	font-size: 12px;
+	color: black;
+	background-color: #d3d3d3;
+}
+.color1{
+	font-size: 12px;
+	color: black;
+	background-color: #f0f0f0;
+}
+.completo{
+	width: 100%;
+}
+
+#form td {
+	font-size: 12px;
+	color: black;
+}
+
+#form {
+	border: 2px black dashed;
+	font-color: black;
+	font-size: 10px;
+	text-align: center;
+	color: black;
+	background-color: #fff;
+	margin: 1%;
+}
+
+.head {
+	background-color: rgb(255, 102, 0);
+	margin: 1%;
+	border: 1px black solid;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+#tablaCom {
+	background-color: #fff;
+	border: 2px black dashed;
+	overflow:auto;
+	height:400px;
+	margin: 1%;
+}
+
+.foot{
+	font-size: 12px;
+	border-top: 1px black dotted;
+	text-align: left;
+	margin: 2%;
+}
+
+#archivo{
+	margin: 1%;
+	border: 1px black solid;
+}
+#archivo td{ 
+	font-size: 12px;
+	border: 1px black solid;
+	text-align: center;
+}
+#archivo td.descripcion{ 
+	font-size: 12px;
+	border: 1px black solid;
+	text-align: left;
+	background-color: rgb(102, 153, 204);
+	color: blue;
+}
+
+.titulo {
+	color: white;
+	border: 1px black solid;
+	background: rgb(255, 102, 0);
+}
+
+.martes {
+	color: white;
+	border: 1px black solid;
+	background-color: rgb(255, 102, 0);
+
+}
+
+.mes {
+	font-weight:bold;
+	color:white;
+	background-color: rgb(0, 0, 255);
+	border: 1px black solid;
+
+}
+
+.ano {
+	font-weight:bold;
+	color:white;
+	border: 1px black solid;
+	background-color: blue;
+
+}
+
+#otras{
+	text-align: center;
+	font-size: 12px;
+	margin: 1%;
+	border: 1px black solid;
+}
+#otras td{
+	background-color: white;
+	border: 1px black solid;
+}
+
+#blog td{
+	background-color: rgb(255, 102, 0);
+	border: 1px black solid;
+	color:white;
+}
+
+#left{
+	text-align: left;
+	background-color: rgb(200, 200, 200);
+}
+
+#center{
+	text-align: center;
+	background-color: rgb(200, 200, 200);
+}
+
+th {
+	border: 1px solid #222222;
+	background-color: #fff;
+	color: #000000;
+}
+/**
+table,th,tr,td {
+	border: 1px solid #222222;
+	background-color: rgb(102, 153, 204);
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 1px;
+	cursor: default;
+}
+**/

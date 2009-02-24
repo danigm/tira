@@ -1,0 +1,5 @@
+#!/usr/bin/kermit +
+ftp open www.linuxhispano.net /user:linuxhis
+cd /public_html/tira/com/
+chmod 666 \%1.lhcmt
+bye

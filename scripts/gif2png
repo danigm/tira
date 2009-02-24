@@ -1,0 +1,21 @@
+#!/usr/bin/kermit +
+ftp open linuxhispano.net /user:linuxhis
+cd /public_html/tira
+
+put ../presentacion.png
+put ../paintball.png
+put ../puntualidad.png
+put ../nuevaley.png
+put ../chat.png
+put ../modding.png
+put ../incendio.png
+put "../raton inalambrico.png"
+put ../elecciones.png
+put ../gnome28.png
+put ../fama.png
+put ../adivina.png
+put ../popup.png
+put ../navidad.png
+put ../com/tira.php
+
+bye

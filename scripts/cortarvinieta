@@ -1,0 +1,4 @@
+convert ds.png -crop 234x236+0+0 vinieta.png
+ 
+convert vinieta.png -resize 170x171 vinieta2.png
+convert vinieta.png -fill white -fuzz 15% -draw 'color 1,1 replace' vinieta3.png

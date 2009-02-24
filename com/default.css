@@ -1,0 +1,77 @@
+/* default skin */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+}
+body,td,div {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	vertical-align: top;
+	text-align: left;
+	cursor: default;
+}
+div {
+	overflow: hidden;
+	word-wrap: break-word; /* IE ONLY */
+}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #333344;
+	text-decoration: none;
+}
+a:active {
+	color: #000000;
+	text-decoration: none;
+}
+input {
+	border: 1px solid #222222;
+	background-color: #FAFAFA;
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 1px;
+	cursor: default;
+}
+button {
+	border: 1px solid #222222;
+	background-color: #eeeeee;
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	margin-bottom: 1px;
+	cursor: default;
+}
+textarea {
+	border: 1px solid #222222;
+	background-color: #FAFAFA;
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 1px;
+	cursor: default;
+}
+th {
+	border: 1px solid #222222;
+	background-color: #FAFAFA;
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 1px;
+	cursor: default;
+}

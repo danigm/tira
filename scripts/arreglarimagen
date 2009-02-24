@@ -1,0 +1,1 @@
+convert ds.png -colors 255 -verbose +dither -depth 8 ds2.png

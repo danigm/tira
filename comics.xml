@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="Comics" 
+     height="370" 
+     author="Grimmthething" 
+	 title_url="http://www.grimmthething.com/googmods/comics.htm" 
+     author_email="grimmthething@gmail.com"
+     description="Displays your favorite daily comic."
+     screenshot="http://img479.imageshack.us/img479/5471/comics1cq.jpg"
+     render_inline="optional" /> 
+	 
+  <UserPref name="comic1" 
+       display_name="Comic"
+       datatype="enum"
+       default_value="38">
+    <EnumValue value="35" display_value="5th Wave"/>   
+    <EnumValue value="30" display_value="Adam At Home"/>
+    <EnumValue value="15" display_value="B.C."/>
+    <EnumValue value="5" display_value="Betty"/>
+    <EnumValue value="24" display_value="Boondocks"/>
+    <EnumValue value="37" display_value="Brevity"/>	
+    <EnumValue value="7" display_value="Calvin and Hobbes -=Down Back Soon=-"/>
+    <EnumValue value="21" display_value="Cathy"/>
+    <EnumValue value="27" display_value="Citizen Dog"/>
+    <EnumValue value="2" display_value="Dilbert"/>
+    <EnumValue value="18" display_value="Doonesbury"/>
+    <EnumValue value="25" display_value="For Better Or For Worse"/>
+    <EnumValue value="8" display_value="FoxTrot"/>
+    <EnumValue value="10" display_value="Frank and Ernest"/>
+    <EnumValue value="3" display_value="Garfield"/>
+    <EnumValue value="9" display_value="Get Fuzzy"/>
+    <EnumValue value="31" display_value="Grand Avenue"/>
+    <EnumValue value="12" display_value="Herman"/>
+    <EnumValue value="23" display_value="Jump Start"/>
+    <EnumValue value="28" display_value="Mother Goose And Grimm"/>
+    <EnumValue value="6" display_value="Nancy"/>
+    <EnumValue value="13" display_value="Non Sequitur"/>
+    <EnumValue value="26" display_value="One Big Happy"/>
+    <EnumValue value="16" display_value="PC and Pixel"/>
+    <EnumValue value="4" display_value="Peanuts"/>
+	<EnumValue value="36" display_value="Pearls Before Swine"/>
+    <EnumValue value="29" display_value="Pickles"/>
+    <EnumValue value="14" display_value="Reality Check"/>
+    <EnumValue value="20" display_value="Shoe"/>
+    <EnumValue value="22" display_value="Speed Bump"/>
+    <EnumValue value="17" display_value="The Born Loser"/>
+	<EnumValue value="32" display_value="User Friendly"/>
+    <EnumValue value="19" display_value="Wizard of Id"/>
+    <EnumValue value="11" display_value="Ziggy"/>
+    <EnumValue value="38" display_value="LinuxHispano"/>
+  </UserPref>
+
+  <Content type="html">
+     <![CDATA[ 
+
+<div
+style="
+    width: 100% !important; /* FF */
+    width: 370px; /* IE */
+    min-height: 250px; /* IE */
+    min-width: 300px; /* FF */
+    overflow: auto; /* IE */
+    overflow-y: auto; /* FF */ "
+>
+<p id="pagecount" style="padding: 4px; font-family: arial, helvetica, sans-serif; font-size: 90%; text-align: center;">&nbsp;</p>
+
+<script type="text/javascript">
+
+document.body.onload = init();
+
+function init()
+{
+    var prefs = new _IG_Prefs(__MODULE_ID__);
+    var coms1 = prefs.getString("comic1");
+    var c1 = ''
+    var c2 = ''
+    var c3 = ''
+    var comrep1 = ' '
+	var comrep2 = ' '
+	var comrep3 = ' '
+	var comrep4 = ' '
+	var comrep5 = ' '
+	var comrep6 = ' '
+	var beginc = ''
+	var endc = ''
+	var content = ''
+	
+   fillVariables(); 
+   displayContent();
+   
+   function fillVariables()
+   {
+		switch (coms1){
+	case "2":
+		setVarAngadi('Dilbert','Garfield');
+	break;
+	case "3":
+		setVarWash('ga');
+	break;
+	case "4":
+		setVarAngadi('Peanuts','Betty');
+	break;
+	case "5":
+		setVarAngadi('Betty','Nancy');
+	break;
+	case "6":
+		setVarAngadi('Nancy','Calvin & Hobbes');
+	break;
+	case "7":
+		setVarUcomics('calvinandhobbes');
+	break;
+	case "8":
+		setVarWash('ft');
+	break;
+	case "9":
+		setVarAngadi('Get Fuzzy','Frank and Ernest');
+	break;
+	case "10":
+		setVarAngadi('Frank and Ernest','Ziggy');
+	break;
+	case "11":
+		setVarAngadi('Ziggy','Herman');
+	break;
+	case "12":
+		setVarAngadi('Herman','Non Sequitur');
+	break;
+	case "13":
+		setVarAngadi('Non Sequitur','Reality Check');
+	break;
+	case "14":
+		setVarAngadi('Reality Check','Pickles');
+	break;
+	case "15":
+		setVarAngadi('B.C.','PC and Pixel');
+	break;
+	case "16":
+		setVarAngadi('PC and Pixel','Pearls Before Swine');
+	break;
+	case "17":
+		setVarAngadi('The Born Loser','Doonesbury');
+	break;
+	case "18":
+		setVarAngadi('Doonesbury','Wizard of Id');
+	break;
+	case "19":
+		setVarAngadi('Wizard of Id','Shoe');
+	break;
+	case "20":
+		setVarAngadi('Shoe','Cathy');
+	break;
+	case "21":
+		setVarAngadi('Cathy','Speed Bump');
+	break;
+	case "22":
+		setVarAngadi('Speed Bump','Jump Start');
+	break;
+	case "23":
+		setVarAngadi('Jump Start','Kim & Jason');
+	break;
+	case "24":
+		setVarWash('bo');
+	break;
+	case "25":
+		setVarAngadi('For Better or For Worse','Sherman');
+	break;
+	case "26":
+		setVarUcomics('onebighappy');
+	break;
+	case "27":
+		setVarUcomics('citizendog');
+	break;
+	case "28":
+		com1 = '<td colspan="3">';
+		com2 = '<input name="CCartoon" type="hidden">';
+		content = 'http://www.grimmy.com/comics.php'
+	break;
+	case "29":
+		setVarAngadi('Pickles','For Better or For Worse');
+	break;
+	case "30":
+		setVarUcomics('adamathome');
+	break;
+	case "31":
+		   com1 = 'by Steve Breen';
+		   com2 = 'Last 30 Days';
+		   content = 'http://www.comics.com/comics/grandave/'
+		   comrep1 = '/comics/grandave/archive/images/';
+		   comrep2 = 'http://www.comics.com' + comrep1;
+	break;
+	case "32":
+		   com1 = '</B><BR CLEAR="all">';
+		   com2 = '<!-- R4L 576x16-->';
+		   content = 'http://www.userfriendly.org/'
+	break;
+	case "33":
+		   com1 = '<td class="Comic" colspan="2" width="800">';
+		   com2 = '<!-- BEGIN Site Navigation -->';
+		   content = 'http://www.schlockmercenary.com/'
+		   comrep1 = '/comics/';
+		   comrep2 = 'http://www.schlockmercenary.com/' + comrep1;
+	break;
+	case "34":
+		   com1 = "Previous";
+		   com2 = 'Copy this';
+		   content = 'http://www.explosm.net/comics/view.asp?id=474'
+	break;
+	case "35":
+		   com1 = '<!-- *************************** -->';
+		   com2 = 'Published';
+		   comrep1 = 'center'
+		   comrep2 = 'left'
+		   comrep3 = '436'
+		   comrep4 = '300'
+		   comrep5 = '400'
+		   comrep6 = '320'
+		   content = 'http://www.uclick.com/client/wpc/fw/'
+	break;
+	case "36":
+		setVarAngadi('Pearls Before Swine','The Born Loser');
+	break;
+	case "37":
+		   com1 = '609';
+		   com2 = '247';
+		   content = 'http://www.comics.com/comics/brevity/'
+		   comrep1 = '/comics/brevity/archive/images/';
+		   comrep2 = 'http://www.comics.com' + comrep1;
+	break;
+
+	case "38":
+		   com1 = '<!--imagen--><img src="';
+		   com2 = '.png"';
+		   content = 'http://www.linuxhispano.net/tira/'
+	break;
+	default:        
+		setVarAngadi('Get Fuzzy','Frank and Ernest');
+	break;
+		}
+   }
+   
+   function setVarAngadi(coms1, coms2)
+   {
+      com1 = coms1;
+	  com2 = coms2;
+	  content = 'http://www.angadi.org/comics.html';
+	  c1 = '<tr> <td width=10%> </td> <td> <STRONG> '
+      c2 = ' </strong>'
+      c3 = '<tr> <td width=10%> </td> <td> <STRONG> '
+   }
+   
+   function setVarWash(con)
+   {
+      com1 = '<!--  Uclick Info Goes Here      -->';
+      com2 = 'Published on';
+	  content = 'http://www.uclick.com/client/wpc/'+con+'/';
+	  comrep1 = 'center';
+	  comrep2 = 'left';
+	  comrep3 = '/feature';
+	  comrep4 = 'http://www.uclick.com/feature';
+   }
+   function setVarUcomics(con)
+   {
+      com1 = 'next date';
+      com2 = '<!--calendar-->';
+      content = 'http://www.gocomics.com/'+con+'/';
+   }
+   
+   function displayContent()
+   {
+	   _IG_FetchContent( content, function (responseText) {
+       var sPart = getTextBetween(responseText, c1+com1+c2, c3+com2);
+       sPart = sPart.replace("<br>", "<br >");
+       sPart = sPart.replace(comrep1, comrep2);
+	   sPart = sPart.replace(comrep3, comrep4);
+	   sPart = sPart.replace(comrep5, comrep6);
+	echo("pagecount", sPart);
+       if (sPart != "")
+       {
+       		if(coms1 == "38"){
+		sPart = '<a target="_blank" href="http://www.linuxhispano.net/tira/"><img border="0" src="http://www.linuxhispano.net/tira/' + sPart + '.png"></a>';
+		}
+        	echo("pagecount", sPart);
+       }
+       else 
+	   {
+          echo("pagecount", "Unable to find comic!");
+       }
+       } );
+    }
+}
+
+
+function echo(id, s)
+{
+   var elm = _gel(id);
+   if (elm) 
+   {
+   elm.innerHTML = s;
+   }
+}
+
+function getTextBetween(sAll, sFrom, sTo)
+{
+var sPart = "";
+
+var iFrom = sAll.indexOf(sFrom);
+var iTo = sAll.indexOf(sTo);
+iFrom += sFrom.length;
+if (iTo > iFrom) {
+sPart = sAll.substring(iFrom, iTo);
+}
+
+return sPart;
+}
+
+</script>
+</div>
+
+
+     ]]>
+  </Content> 
+
+</Module>
