@@ -8,7 +8,7 @@ USER="linuxhis"
 #read -s -p "linuxhis - Password:" PASS
 #lftp -u $USER,$PASS $pub -e "put ../vinieta.png ../$1.png; exit"
 
-cat drupal.html | sed "s/IMG/$1/g"
+cat wordpress.html | sed "s/IMG/$1/g"
 
 
 

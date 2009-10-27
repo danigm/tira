@@ -4,7 +4,7 @@
 
 
 #esto recorta la primera vinieta
-convert $1 -crop 234x236+0+4 vinieta.png
+convert $1 -crop 224x226+0+4 vinieta.png
 #esto rellena las esquinas de blanco
 convert vinieta.png -fill white -fuzz 15% -draw 'color 1,1 replace' vinieta.png
 #y esto redimensiona la vinieta y le asigna la profundidad de color
