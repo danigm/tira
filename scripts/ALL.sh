@@ -10,5 +10,5 @@ USER="linuxhis"
 
 cat wordpress.html | sed "s/IMG/$1/g"
 
-
+echo "$1.png" >> ../lista.txt
 
