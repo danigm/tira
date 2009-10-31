@@ -3,7 +3,7 @@
 <svg
    xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_xlink;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -12,17 +12,25 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg1"
    sodipodi:version="0.32"
-   inkscape:version="0.44.1"
+   inkscape:version="0.46"
    width="1062.99"
    height="750"
    sodipodi:docbase="/home/danigm/Documents/linuxHispano/tira"
    sodipodi:docname="escuelahtml.svg"
    inkscape:export-filename="/home/danigm/tira/escuelahtml.png"
-   inkscape:export-xdpi="60.110001"
-   inkscape:export-ydpi="60.110001"
-   version="1.0">
+   inkscape:export-xdpi="60.113453"
+   inkscape:export-ydpi="60.113453"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 375 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1062.99 : 375 : 1"
+       inkscape:persp3d-origin="531.495 : 250 : 1"
+       id="perspective2155" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient9907">
@@ -228,15 +236,25 @@
        inkscape:window-x="485"
        inkscape:window-y="48"
        showgrid="false"
-       gridempspacing="5"
        gridtolerance="5.0000000mm"
        inkscape:grid-points="false"
-       gridspacingx="1.2500000mm"
-       gridspacingy="1.2500000mm"
        showguides="true"
        inkscape:guide-bbox="true"
        inkscape:grid-bbox="false"
-       showborder="true" />
+       showborder="true">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <defs
        id="defs2040">
       <linearGradient
@@ -413,15 +431,25 @@
        inkscape:window-x="485"
        inkscape:window-y="48"
        showgrid="false"
-       gridempspacing="5"
        gridtolerance="5.0000000mm"
        inkscape:grid-points="false"
-       gridspacingx="1.2500000mm"
-       gridspacingy="1.2500000mm"
        showguides="true"
        inkscape:guide-bbox="true"
        inkscape:grid-bbox="false"
-       showborder="true" />
+       showborder="true">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <defs
        id="definitions">
       <linearGradient
@@ -1365,11 +1393,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -1383,7 +1408,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview4019" />
+       id="namedview4019">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata4017">
       <rdf:RDF>
@@ -1550,11 +1588,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -1568,7 +1603,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview3957" />
+       id="namedview3957">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata3955">
       <rdf:RDF>
@@ -2271,11 +2319,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -2289,7 +2334,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview3664" />
+       id="namedview3664">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata3662">
       <rdf:RDF>
@@ -2456,11 +2514,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -2474,7 +2529,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview3602" />
+       id="namedview3602">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata3600">
       <rdf:RDF>
@@ -2846,15 +2914,25 @@
        inkscape:window-x="485"
        inkscape:window-y="48"
        showgrid="false"
-       gridempspacing="5"
        gridtolerance="5.0000000mm"
        inkscape:grid-points="false"
-       gridspacingx="1.2500000mm"
-       gridspacingy="1.2500000mm"
        showguides="true"
        inkscape:guide-bbox="true"
        inkscape:grid-bbox="false"
-       showborder="true" />
+       showborder="true">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <defs
        id="defs16044">
       <linearGradient
@@ -3031,15 +3109,25 @@
        inkscape:window-x="485"
        inkscape:window-y="48"
        showgrid="false"
-       gridempspacing="5"
        gridtolerance="5.0000000mm"
        inkscape:grid-points="false"
-       gridspacingx="1.2500000mm"
-       gridspacingy="1.2500000mm"
        showguides="true"
        inkscape:guide-bbox="true"
        inkscape:grid-bbox="false"
-       showborder="true" />
+       showborder="true">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <defs
        id="defs16106">
       <linearGradient
@@ -3983,11 +4071,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -4001,7 +4086,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview6485" />
+       id="namedview6485">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata6483">
       <rdf:RDF>
@@ -4168,11 +4266,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -4186,7 +4281,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview6423" />
+       id="namedview6423">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata6421">
       <rdf:RDF>
@@ -4889,11 +4997,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -4907,7 +5012,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview8753" />
+       id="namedview8753">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata8751">
       <rdf:RDF>
@@ -5074,11 +5192,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -5092,7 +5207,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview8691" />
+       id="namedview8691">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata8689">
       <rdf:RDF>
@@ -5795,11 +5923,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -5813,7 +5938,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview10817" />
+       id="namedview10817">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata10815">
       <rdf:RDF>
@@ -5980,11 +6118,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -5998,7 +6133,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview10755" />
+       id="namedview10755">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata10753">
       <rdf:RDF>
@@ -6425,15 +6573,25 @@
        inkscape:window-x="485"
        inkscape:window-y="48"
        showgrid="false"
-       gridempspacing="5"
        gridtolerance="5.0000000mm"
        inkscape:grid-points="false"
-       gridspacingx="1.2500000mm"
-       gridspacingy="1.2500000mm"
        showguides="true"
        inkscape:guide-bbox="true"
        inkscape:grid-bbox="false"
-       showborder="true" />
+       showborder="true">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <defs
        id="defs8327">
       <linearGradient
@@ -6610,15 +6768,25 @@
        inkscape:window-x="485"
        inkscape:window-y="48"
        showgrid="false"
-       gridempspacing="5"
        gridtolerance="5.0000000mm"
        inkscape:grid-points="false"
-       gridspacingx="1.2500000mm"
-       gridspacingy="1.2500000mm"
        showguides="true"
        inkscape:guide-bbox="true"
        inkscape:grid-bbox="false"
-       showborder="true" />
+       showborder="true">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <defs
        id="defs8389">
       <linearGradient
@@ -7331,15 +7499,25 @@
        inkscape:window-x="485"
        inkscape:window-y="48"
        showgrid="false"
-       gridempspacing="5"
        gridtolerance="5.0000000mm"
        inkscape:grid-points="false"
-       gridspacingx="1.2500000mm"
-       gridspacingy="1.2500000mm"
        showguides="true"
        inkscape:guide-bbox="true"
        inkscape:grid-bbox="false"
-       showborder="true" />
+       showborder="true">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <defs
        id="defs3256">
       <linearGradient
@@ -7516,15 +7694,25 @@
        inkscape:window-x="485"
        inkscape:window-y="48"
        showgrid="false"
-       gridempspacing="5"
        gridtolerance="5.0000000mm"
        inkscape:grid-points="false"
-       gridspacingx="1.2500000mm"
-       gridspacingy="1.2500000mm"
        showguides="true"
        inkscape:guide-bbox="true"
        inkscape:grid-bbox="false"
-       showborder="true" />
+       showborder="true">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <defs
        id="defs3318">
       <linearGradient
@@ -8568,11 +8756,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -8586,7 +8771,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview21171" />
+       id="namedview21171">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata21169">
       <rdf:RDF>
@@ -8753,11 +8951,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -8771,7 +8966,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview21109" />
+       id="namedview21109">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata21107">
       <rdf:RDF>
@@ -9424,11 +9632,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -9442,7 +9647,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview4855" />
+       id="namedview4855">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata4853">
       <rdf:RDF>
@@ -9609,11 +9827,8 @@
        inkscape:grid-bbox="false"
        inkscape:guide-bbox="true"
        showguides="true"
-       gridspacingy="1.2500000mm"
-       gridspacingx="1.2500000mm"
        inkscape:grid-points="false"
        gridtolerance="5.0000000mm"
-       gridempspacing="5"
        showgrid="false"
        inkscape:window-y="48"
        inkscape:window-x="485"
@@ -9627,7 +9842,20 @@
        borderopacity="1.0"
        bordercolor="#666666"
        pagecolor="#ffffff"
-       id="namedview4793" />
+       id="namedview4793">
+      <inkscape:grid
+         id="GridFromPre046Settings"
+         type="xygrid"
+         originx="0px"
+         originy="0px"
+         spacingx="1.2500000mm"
+         spacingy="1.2500000mm"
+         color="#0000ff"
+         empcolor="#0000ff"
+         opacity="0.2"
+         empopacity="0.4"
+         empspacing="5" />
+    </sodipodi:namedview>
     <metadata
        id="metadata4791">
       <rdf:RDF>
