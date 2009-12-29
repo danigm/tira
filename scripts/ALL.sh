@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ./imagen.sh ../$1.png
-scp ../vinieta.png root@danigm.net:/var/www/tira/
+scp ../vinieta.png danigm@danigm.net:www/tira/
 
 pub="ftp://linuxhispano.net/public_html/tira/"
 USER="linuxhis"
