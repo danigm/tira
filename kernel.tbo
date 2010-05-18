@@ -1,0 +1,90 @@
+<tbo width="680" height="250">
+ <page>
+  <frame x="5" y="5" width="220" height="220" border="1" r="1,000000" g="0,878264" b="0,000000">
+   <svgimage x="11" y="108" width="76" height="119" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/finger-left.svg">
+    </svgimage>
+   <svgimage x="30" y="124" width="41" height="24" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-right.svg">
+    </svgimage>
+   <svgimage x="30" y="149" width="31" height="19" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/smile1.svg">
+    </svgimage>
+   <svgimage x="142" y="110" width="72" height="120" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/emilio/left1.svg">
+    </svgimage>
+   <svgimage x="160" y="158" width="15" height="4" angle="0,000000" flipv="0" fliph="1" path="linuxhispano/mouth/line.svg">
+    </svgimage>
+   <svgimage x="52" y="6" width="112" height="115" angle="0,000000" flipv="0" fliph="0" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="58" y="38" width="100" height="52" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+Ayer salió el 
+nuevo kernel,
+2.6.34, trae
+bastantes
+mejoras...
+   </text>
+  </frame>
+  <frame x="5" y="228" width="672" height="19" border="0" r="1,000000" g="1,000000" b="1,000000">
+   <text x="6" y="1" width="157" height="16" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+tira de linuxhispano.net
+   </text>
+   <text x="293" y="1" width="76" height="17" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+by danigm
+   </text>
+   <text x="535" y="1" width="133" height="16" angle="0,000000" flipv="0" fliph="0" font="CreativeBlock BB 12" r="0,651026" g="0,000000" b="0,000000">
+powered by TBO
+   </text>
+  </frame>
+  <frame x="230" y="5" width="220" height="220" border="1" r="1,000000" g="0,878264" b="0,000000">
+   <svgimage x="7" y="109" width="73" height="122" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="30" y="124" width="41" height="24" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-right.svg">
+    </svgimage>
+   <svgimage x="41" y="154" width="17" height="4" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/line.svg">
+    </svgimage>
+   <svgimage x="-19" y="-64" width="248" height="201" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="8" y="8" width="209" height="102" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+Según el propio Linus, el kernel
+se está complicando cada vez
+más. En mi opinión como
+ingeniero informático de
+primera esto se debe a los
+ siguientes motivos:
+1. No se están siguiendo las
+prácticas de gestión de 
+proyectos establecidas
+por
+el SWEBOK...
+   </text>
+   <svgimage x="135" y="114" width="81" height="114" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/emilio/left2.svg">
+    </svgimage>
+   <svgimage x="162" y="156" width="27" height="15" angle="0,000000" flipv="0" fliph="1" path="linuxhispano/mouth/angry2.svg">
+    </svgimage>
+  </frame>
+  <frame x="455" y="5" width="220" height="220" border="1" r="1,000000" g="0,878264" b="0,000000">
+   <svgimage x="7" y="109" width="73" height="122" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="41" y="154" width="17" height="4" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/line.svg">
+    </svgimage>
+   <svgimage x="-19" y="-64" width="248" height="201" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="8" y="8" width="209" height="98" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+2. ¡No hay ni un solo diagrama UML!
+3. Se están empeñando en usar C
+frente a lenguajes de mayor
+nivel como java o c#
+4. Entre los colaboradores del 
+kernel hay mucho intrusismo,
+gente de FP, sin título, físicos,
+matemáticos, industriales...
+5. Falta un SDK para
+Windows
+...
+   </text>
+   <svgimage x="135" y="114" width="81" height="114" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/emilio/left2.svg">
+    </svgimage>
+   <svgimage x="162" y="156" width="27" height="15" angle="0,000000" flipv="0" fliph="1" path="linuxhispano/mouth/angry2.svg">
+    </svgimage>
+   <svgimage x="31" y="124" width="40" height="24" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/normal-righ.svg">
+    </svgimage>
+  </frame>
+ </page>
+</tbo>
