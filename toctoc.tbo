@@ -1,0 +1,63 @@
+<tbo width="680" height="250">
+ <page>
+  <frame x="5" y="5" width="220" height="220" border="1" r="1,000000" g="0,675425" b="0,000000">
+   <svgimage x="15" y="96" width="90" height="131" angle="0,000000" flipv="0" fliph="0" path="custom/body/puerta.svg">
+    </svgimage>
+   <svgimage x="121" y="113" width="73" height="122" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="140" y="130" width="41" height="24" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-left.svg">
+    </svgimage>
+   <svgimage x="165" y="159" width="10" height="10" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/o.svg">
+    </svgimage>
+   <text x="17" y="84" width="59" height="34" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+TOC
+   </text>
+   <text x="39" y="123" width="56" height="32" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+TOC
+   </text>
+   <svgimage x="48" y="-1" width="123" height="82" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="57" y="26" width="105" height="17" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+¿quién es?
+   </text>
+  </frame>
+  <frame x="5" y="228" width="672" height="19" border="0" r="1,000000" g="1,000000" b="1,000000">
+   <text x="6" y="1" width="157" height="16" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+tira de linuxhispano.net
+   </text>
+   <text x="293" y="1" width="76" height="17" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+by danigm
+   </text>
+   <text x="535" y="1" width="133" height="16" angle="0,000000" flipv="0" fliph="0" font="CreativeBlock BB 12" r="0,651026" g="0,000000" b="0,000000">
+powered by TBO
+   </text>
+  </frame>
+  <frame x="230" y="5" width="220" height="220" border="1" r="1,000000" g="0,675425" b="0,000000">
+   <svgimage x="15" y="96" width="90" height="131" angle="0,000000" flipv="0" fliph="0" path="custom/body/puerta.svg">
+    </svgimage>
+   <svgimage x="121" y="113" width="73" height="122" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <text x="11" y="14" width="144" height="28" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+dos horas más
+tarde...
+   </text>
+   <svgimage x="138" y="129" width="44" height="26" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/normal-left.svg">
+    </svgimage>
+  </frame>
+  <frame x="455" y="5" width="220" height="220" border="1" r="1,000000" g="0,675425" b="0,000000">
+   <svgimage x="15" y="96" width="90" height="131" angle="0,000000" flipv="0" fliph="0" path="custom/body/puerta.svg">
+    </svgimage>
+   <svgimage x="121" y="113" width="73" height="122" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="13" y="36" width="123" height="82" angle="0,000000" flipv="0" fliph="0" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="20" y="65" width="105" height="17" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+soy java
+   </text>
+   <svgimage x="141" y="130" width="43" height="25" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/normal-front.svg">
+    </svgimage>
+   <svgimage x="155" y="160" width="20" height="4" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/line.svg">
+    </svgimage>
+  </frame>
+ </page>
+</tbo>
