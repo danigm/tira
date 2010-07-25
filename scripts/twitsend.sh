@@ -12,5 +12,5 @@ read -s -p "twitter/sweetter password: " PASSWD
 
 MSG=$1
 
-#curl -u $USER:$PASSWD -d status="$MSG" $URL
+curl -u $USER:$PASSWD -d status="$MSG" $URL
 curl -u $USER:$PASSWD -d status="$MSG" $URL2
