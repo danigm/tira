@@ -1,0 +1,93 @@
+<tbo width="680" height="250">
+ <page>
+  <frame x="5" y="5" width="220" height="220" border="1" r="1,000000" g="0,592294" b="0,000000">
+   <svgimage x="139" y="100" width="75" height="143" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/bar/left.svg">
+    </svgimage>
+   <svgimage x="15" y="116" width="80" height="132" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="39" y="134" width="44" height="26" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-right.svg">
+    </svgimage>
+   <svgimage x="51" y="168" width="13" height="5" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/line2.svg">
+    </svgimage>
+   <svgimage x="-18" y="165" width="161" height="100" angle="0,000000" flipv="0" fliph="0" path="accesories/pcs/big.svg">
+    </svgimage>
+   <svgimage x="70" y="-11" width="128" height="64" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="90" y="12" width="100" height="19" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+hola foo, ¿qué
+haces?
+   </text>
+   <svgimage x="29" y="37" width="128" height="64" angle="0,000000" flipv="0" fliph="0" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="41" y="56" width="100" height="30" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+pues nada, aquí
+leyendo un
+libro.
+   </text>
+   <svgimage x="176" y="158" width="5" height="6" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/o.svg">
+    </svgimage>
+  </frame>
+  <frame x="455" y="5" width="220" height="220" border="1" r="1,000000" g="0,592157" b="0,000000">
+   <svgimage x="15" y="109" width="89" height="137" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/finger-left.svg">
+    </svgimage>
+   <svgimage x="39" y="161" width="11" height="13" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/o.svg">
+    </svgimage>
+   <svgimage x="136" y="94" width="85" height="154" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/bar/left-hand.svg">
+    </svgimage>
+   <svgimage x="165" y="153" width="27" height="16" angle="0,000000" flipv="0" fliph="1" path="linuxhispano/mouth/smile3.svg">
+    </svgimage>
+   <svgimage x="-8" y="-5" width="135" height="65" angle="0,000000" flipv="0" fliph="0" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="12" y="12" width="100" height="24" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+hola bar,
+¿qué haces?
+   </text>
+   <svgimage x="36" y="126" width="47" height="28" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/normal-righ.svg">
+    </svgimage>
+   <svgimage x="89" y="27" width="132" height="82" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="107" y="42" width="100" height="51" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+leyendo un
+ebook en 
+mi flamante
+ipad
+   </text>
+   <piximage x="134" y="172" width="39" height="53" angle="-0,179853" flipv="0" fliph="0" path="/home/danigm/tira/ipad-back.png">
+    </piximage>
+  </frame>
+  <frame x="5" y="228" width="672" height="19" border="0" r="1,000000" g="1,000000" b="1,000000">
+   <text x="6" y="1" width="157" height="16" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+tira de linuxhispano.net
+   </text>
+   <text x="293" y="1" width="76" height="17" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+by danigm
+   </text>
+   <text x="535" y="1" width="133" height="16" angle="0,000000" flipv="0" fliph="0" font="CreativeBlock BB 12" r="0,651011" g="0,000000" b="0,000000">
+powered by TBO
+   </text>
+  </frame>
+  <frame x="230" y="5" width="220" height="220" border="1" r="1,000000" g="0,592294" b="0,000000">
+   <svgimage x="139" y="100" width="75" height="143" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/bar/left.svg">
+    </svgimage>
+   <svgimage x="15" y="116" width="80" height="132" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="39" y="134" width="44" height="26" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-right.svg">
+    </svgimage>
+   <svgimage x="51" y="168" width="13" height="5" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/line2.svg">
+    </svgimage>
+   <svgimage x="-18" y="165" width="161" height="100" angle="0,000000" flipv="0" fliph="0" path="accesories/pcs/big.svg">
+    </svgimage>
+   <svgimage x="80" y="-5" width="116" height="88" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="89" y="12" width="100" height="46" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+¡¿Pero estás
+loco?! leyendo
+en la pantalla
+te vas a quedar
+ciego...
+   </text>
+   <svgimage x="166" y="158" width="25" height="14" angle="0,000000" flipv="0" fliph="1" path="linuxhispano/mouth/angry1.svg">
+    </svgimage>
+  </frame>
+ </page>
+</tbo>
