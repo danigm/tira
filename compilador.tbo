@@ -1,0 +1,89 @@
+<tbo width="680" height="250">
+ <page>
+  <frame x="5" y="5" width="220" height="220" border="1" r="0,444297" g="0,218631" b="0,510765">
+   <svgimage x="112" y="90" width="124" height="170" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/emilio/left2.svg">
+    </svgimage>
+   <svgimage x="-7" y="94" width="107" height="174" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="27" y="118" width="60" height="36" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-right.svg">
+    </svgimage>
+   <svgimage x="176" y="153" width="11" height="13" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/o.svg">
+    </svgimage>
+   <svgimage x="40" y="165" width="20" height="4" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/line.svg">
+    </svgimage>
+   <svgimage x="37" y="-19" width="153" height="132" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="55" y="7" width="126" height="84" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+Tengo una duda.
+Si el compilador
+de C está escrito
+en C,
+¿Quién fue
+primero? ¿El
+compilador o
+el huevo?
+   </text>
+  </frame>
+  <frame x="5" y="228" width="672" height="19" border="0" r="1,000000" g="1,000000" b="1,000000">
+   <text x="6" y="1" width="157" height="16" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+tira de linuxhispano.net
+   </text>
+   <text x="293" y="1" width="76" height="17" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+by danigm
+   </text>
+   <text x="535" y="1" width="133" height="16" angle="0,000000" flipv="0" fliph="0" font="CreativeBlock BB 12" r="0,651011" g="0,000000" b="0,000000">
+powered by TBO
+   </text>
+  </frame>
+  <frame x="230" y="5" width="220" height="220" border="1" r="0,444297" g="0,218631" b="0,510765">
+   <svgimage x="-7" y="94" width="107" height="174" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="27" y="118" width="60" height="36" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-right.svg">
+    </svgimage>
+   <svgimage x="29" y="154" width="42" height="28" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/smile1.svg">
+    </svgimage>
+   <svgimage x="136" y="99" width="107" height="170" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/emilio/left1.svg">
+    </svgimage>
+   <svgimage x="33" y="-17" width="193" height="165" angle="0,000000" flipv="0" fliph="0" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <svgimage x="168" y="167" width="20" height="4" angle="0,000000" flipv="0" fliph="1" path="linuxhispano/mouth/line.svg">
+    </svgimage>
+   <text x="50" y="3" width="151" height="123" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+Es muy fácil.
+primero compilas
+el compilador con
+otro compilador, y
+luego con el
+compilador compilado
+compilas de nuevo
+el mismo compilador,
+así tienes un
+compilador que se
+compila a sí
+mismo
+   </text>
+  </frame>
+  <frame x="455" y="5" width="220" height="220" border="1" r="0,444297" g="0,218631" b="0,510765">
+   <svgimage x="-7" y="94" width="107" height="174" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="27" y="118" width="60" height="36" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-right.svg">
+    </svgimage>
+   <svgimage x="136" y="99" width="107" height="170" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/emilio/left1.svg">
+    </svgimage>
+   <svgimage x="36" y="-31" width="172" height="147" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="50" y="3" width="151" height="71" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+ajá, creo
+que ya lo entiendo.
+el compilador que
+se compile a  sí
+mismo, buen
+compilador será...
+   </text>
+   <svgimage x="156" y="159" width="39" height="26" angle="0,000000" flipv="0" fliph="1" path="linuxhispano/mouth/smile3.svg">
+    </svgimage>
+   <svgimage x="45" y="163" width="20" height="6" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/line2.svg">
+    </svgimage>
+  </frame>
+ </page>
+</tbo>
