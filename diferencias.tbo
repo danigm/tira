@@ -1,0 +1,36 @@
+<tbo width="680" height="250">
+ <page>
+  <frame x="5" y="5" width="220" height="220" border="1" r="1,000000" g="1,000000" b="1,000000">
+   <svgimage x="3" y="-1" width="219" height="230" angle="0,000000" flipv="0" fliph="0" path="custom/blond/diff1.svg">
+    </svgimage>
+   <text x="7" y="7" width="210" height="27" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+Pasatiempos: Encuentra
+las diferencias...
+   </text>
+  </frame>
+  <frame x="230" y="5" width="220" height="220" border="1" r="1,000000" g="1,000000" b="1,000000">
+   <svgimage x="3" y="1" width="204" height="214" angle="0,000000" flipv="0" fliph="0" path="custom/blond/diff2.svg">
+    </svgimage>
+  </frame>
+  <frame x="455" y="5" width="220" height="220" border="1" r="1,000000" g="1,000000" b="1,000000">
+   <piximage x="2" y="0" width="220" height="220" angle="0,000000" flipv="0" fliph="0" path="/home/danigm/tira/diff.output.png">
+    </piximage>
+   <text x="5" y="8" width="211" height="66" angle="0,000000" flipv="0" fliph="0" font="Terminus 12" r="1,000000" g="1,000000" b="1,000000">
+composite img1.png
+img2.png -compose
+difference output.png
+   </text>
+  </frame>
+  <frame x="5" y="228" width="672" height="19" border="0" r="1,000000" g="1,000000" b="1,000000">
+   <text x="6" y="1" width="157" height="16" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+tira de linuxhispano.net
+   </text>
+   <text x="293" y="1" width="76" height="17" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+by danigm
+   </text>
+   <text x="535" y="1" width="133" height="16" angle="0,000000" flipv="0" fliph="0" font="CreativeBlock BB 12" r="0,651011" g="0,000000" b="0,000000">
+powered by TBO
+   </text>
+  </frame>
+ </page>
+</tbo>
