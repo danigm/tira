@@ -1,0 +1,80 @@
+<tbo width="680" height="250">
+ <page>
+  <frame x="5" y="5" width="220" height="220" border="1" r="0,406928" g="0,000000" b="0,284016">
+   <svgimage x="5" y="100" width="111" height="171" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/finger-left.svg">
+    </svgimage>
+   <svgimage x="149" y="88" width="107" height="197" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/bar/left.svg">
+    </svgimage>
+   <svgimage x="32" y="124" width="60" height="36" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-right.svg">
+    </svgimage>
+   <svgimage x="39" y="158" width="42" height="28" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/smile1.svg">
+    </svgimage>
+   <svgimage x="190" y="168" width="20" height="4" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/line.svg">
+    </svgimage>
+   <svgimage x="-5" y="-11" width="237" height="126" angle="0,000000" flipv="0" fliph="0" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="27" y="14" width="173" height="67" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+estoy muy contento
+hoy, acabo de ver la
+noticia de que
+finalmente van a 
+hacer una release de
+gnu/Hurd
+   </text>
+  </frame>
+  <frame x="230" y="5" width="220" height="220" border="1" r="0,407843" g="0,000000" b="0,282353">
+   <svgimage x="126" y="90" width="114" height="197" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/bar/left-hand.svg">
+    </svgimage>
+   <svgimage x="163" y="163" width="42" height="28" angle="0,000000" flipv="0" fliph="1" path="linuxhispano/mouth/smile2.svg">
+    </svgimage>
+   <svgimage x="-4" y="101" width="107" height="174" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="30" y="126" width="60" height="36" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/look-left-up.svg">
+    </svgimage>
+   <svgimage x="56" y="-12" width="159" height="77" angle="0,000000" flipv="0" fliph="1" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="70" y="12" width="138" height="19" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+¿Te has fijado
+qué día es hoy?
+   </text>
+   <svgimage x="35" y="167" width="11" height="13" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/o.svg">
+    </svgimage>
+   <svgimage x="42" y="66" width="141" height="68" angle="0,000000" flipv="0" fliph="0" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <text x="60" y="81" width="105" height="35" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+hoy es 1
+de abril...
+   </text>
+  </frame>
+  <frame x="455" y="5" width="220" height="220" border="1" r="0,407843" g="0,000000" b="0,282353">
+   <svgimage x="-4" y="95" width="111" height="171" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/foo/finger-left.svg">
+    </svgimage>
+   <svgimage x="27" y="155" width="43" height="26" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/mouth/angry1.svg">
+    </svgimage>
+   <svgimage x="24" y="120" width="60" height="36" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/eyes/angry.svg">
+    </svgimage>
+   <svgimage x="127" y="80" width="107" height="199" angle="0,000000" flipv="0" fliph="0" path="linuxhispano/bar/front.svg">
+    </svgimage>
+   <svgimage x="-14" y="-26" width="247" height="158" angle="0,000000" flipv="0" fliph="1" path="bubble/misc/scream.svg">
+    </svgimage>
+   <text x="23" y="16" width="173" height="56" angle="0,000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0,000000" g="0,000000" b="0,000000">
+¡Malditas bromas
+del 1 de abril! ¡esto
+no se hace! jugar
+así con las ilusiones
+de la gente...
+   </text>
+  </frame>
+  <frame x="5" y="228" width="672" height="19" border="0" r="1,000000" g="1,000000" b="1,000000">
+   <text x="6" y="1" width="157" height="16" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+tira de linuxhispano.net
+   </text>
+   <text x="293" y="1" width="76" height="17" angle="0,000000" flipv="0" fliph="0" font="Sans 12" r="0,000000" g="0,000000" b="0,000000">
+by danigm
+   </text>
+   <text x="535" y="1" width="133" height="16" angle="0,000000" flipv="0" fliph="0" font="CreativeBlock BB 12" r="0,651011" g="0,000000" b="0,000000">
+powered by TBO
+   </text>
+  </frame>
+ </page>
+</tbo>
