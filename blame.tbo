@@ -1,0 +1,73 @@
+<tbo width="680" height="250">
+ <page>
+  <frame x="4" y="5" width="220" height="220" border="1" r="0.622904" g="0.000000" b="0.000000">
+   <svgimage x="15" y="-4" width="244" height="157" angle="0.000000" flipv="0" fliph="0" path="bubble/ellipse/vertical-shadow2.svg">
+    </svgimage>
+   <svgimage x="-8" y="106" width="107" height="174" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="25" y="131" width="60" height="36" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/eyes/front.svg">
+    </svgimage>
+   <svgimage x="25" y="165" width="42" height="28" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/mouth/smile1.svg">
+    </svgimage>
+   <svgimage x="37" y="189" width="98" height="63" angle="0.000000" flipv="0" fliph="0" path="accesories/pcs/debian.svg">
+    </svgimage>
+   <text x="50" y="12" width="165" height="111" angle="0.000000" flipv="0" fliph="0" font="Kid Kosmic Italic 12" r="0.000000" g="0.000000" b="0.000000">
+Ostras, vaya fallo
+más gordo, esto es
+un error de primero
+de programación.
+voy a hacer un git
+blame y a mandar
+un correo a la lista
+para que el cuplable
+se entere y aprenda
+a programar...
+   </text>
+  </frame>
+  <frame x="5" y="228" width="672" height="19" border="0" r="1.000000" g="1.000000" b="1.000000">
+   <text x="6" y="1" width="157" height="16" angle="0.000000" flipv="0" fliph="0" font="Sans 12" r="0.000000" g="0.000000" b="0.000000">
+tira de linuxhispano.net
+   </text>
+   <text x="293" y="1" width="76" height="15" angle="0.000000" flipv="0" fliph="0" font="Sans 12" r="0.000000" g="0.000000" b="0.000000">
+by danigm
+   </text>
+   <text x="535" y="1" width="133" height="16" angle="0.000000" flipv="0" fliph="0" font="CreativeBlock BB 12" r="0.000000" g="0.000000" b="0.000000">
+powered by TBO
+   </text>
+  </frame>
+  <frame x="229" y="5" width="220" height="220" border="1" r="0.622904" g="0.000000" b="0.000000">
+   <svgimage x="-8" y="106" width="107" height="174" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="37" y="189" width="98" height="63" angle="0.000000" flipv="0" fliph="0" path="accesories/pcs/debian.svg">
+    </svgimage>
+   <svgimage x="-3" y="-21" width="220" height="91" angle="0.000000" flipv="1" fliph="1" path="bubble/square/horizontal.svg">
+    </svgimage>
+   <text x="14" y="9" width="187" height="55" angle="0.000000" flipv="0" fliph="0" font="Monospace 12" r="0.000000" g="0.000000" b="0.000000">
+$ git blame code.c
+...
+02bc0d92 (foo 2010-08-21...
+...
+   </text>
+   <svgimage x="28" y="170" width="5" height="6" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/mouth/o.svg">
+    </svgimage>
+   <svgimage x="26" y="130" width="60" height="36" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/eyes/front.svg">
+    </svgimage>
+  </frame>
+  <frame x="455" y="5" width="220" height="220" border="1" r="0.622904" g="0.000000" b="0.000000">
+   <svgimage x="-8" y="106" width="107" height="174" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/foo/front.svg">
+    </svgimage>
+   <svgimage x="37" y="189" width="98" height="63" angle="0.000000" flipv="0" fliph="0" path="accesories/pcs/debian.svg">
+    </svgimage>
+   <svgimage x="3" y="-14" width="216" height="64" angle="0.000000" flipv="1" fliph="1" path="bubble/square/horizontal.svg">
+    </svgimage>
+   <text x="14" y="9" width="187" height="32" angle="0.000000" flipv="0" fliph="0" font="Monospace 12" r="0.000000" g="0.000000" b="0.000000">
+$ git commit -m &quot;Fixing
+minor bug&quot;
+   </text>
+   <svgimage x="26" y="131" width="60" height="36" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/eyes/normal-left.svg">
+    </svgimage>
+   <svgimage x="42" y="175" width="20" height="6" angle="0.000000" flipv="0" fliph="0" path="linuxhispano/mouth/line2.svg">
+    </svgimage>
+  </frame>
+ </page>
+</tbo>
