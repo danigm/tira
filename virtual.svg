@@ -15,7 +15,7 @@
    id="svg12778"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="template.svg">
+   sodipodi:docname="virtual.svg">
   <defs
      id="defs12780">
     <inkscape:perspective
@@ -92,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49412646"
-     inkscape:cx="435.79612"
-     inkscape:cy="660.9353"
+     inkscape:zoom="0.92586694"
+     inkscape:cx="425.67307"
+     inkscape:cy="835.79952"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -111,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,7 +120,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.24767399;stroke-opacity:1;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24767399000000001;stroke-opacity:1;display:inline"
        id="rect9380"
        width="1220.6493"
        height="447.97916"
@@ -153,10 +153,88 @@
        style="fill:#ffffff;fill-opacity:0.41818181;stroke:none"
        d="M 383.40625 198.21875 C 314.41989 198.21875 248.07611 203.88013 186.125 214.3125 L 186.125 434.84375 L 579.59375 434.84375 L 579.59375 214.125 C 517.95466 203.8095 451.9882 198.21875 383.40625 198.21875 z M 588.625 215.6875 L 588.625 434.84375 L 982.09375 434.84375 L 982.09375 430.6875 C 931.06319 330.38443 781.84214 249.70683 588.625 215.6875 z M 177.0625 215.875 C -17.019439 250.26181 -166.52286 331.77576 -216.375 432.90625 L -216.375 434.84375 L 177.0625 434.84375 L 177.0625 215.875 z "
        id="path14809" />
+    <g
+       id="g3883">
+      <rect
+         y="302.62686"
+         x="48.960365"
+         height="144.83524"
+         width="112.91431"
+         id="rect3830"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         y="311.59497"
+         x="54.70557"
+         height="27.801191"
+         width="101.33983"
+         id="rect3834"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         y="316.97583"
+         x="59.638039"
+         height="4.0356569"
+         width="4.0356569"
+         id="rect3832"
+         style="fill:#8ae234;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       id="g3888"
+       transform="translate(395.70478,0)">
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3890"
+         width="112.91431"
+         height="144.83524"
+         x="48.960365"
+         y="302.62686" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3892"
+         width="101.33983"
+         height="27.801191"
+         x="54.70557"
+         y="311.59497" />
+      <rect
+         style="fill:#8ae234;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3894"
+         width="4.0356569"
+         height="4.0356569"
+         x="59.638039"
+         y="316.97583" />
+    </g>
+    <g
+       transform="translate(797.75098,0)"
+       id="g3896">
+      <rect
+         y="302.62686"
+         x="48.960365"
+         height="144.83524"
+         width="112.91431"
+         id="rect3898"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         y="311.59497"
+         x="54.70557"
+         height="27.801191"
+         width="101.33983"
+         id="rect3900"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         y="316.97583"
+         x="59.638039"
+         height="4.0356569"
+         width="4.0356569"
+         id="rect3902"
+         style="fill:#8ae234;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.24767399;stroke-opacity:1;display:inline"
-       d="M -227.46875 31.21875 L -227.46875 479.21875 L 993.1875 479.21875 L 993.1875 31.21875 L -227.46875 31.21875 z M -216.375 41.40625 L 177.0625 41.40625 L 177.0625 434.84375 L -216.375 434.84375 L -216.375 41.40625 z M 186.125 41.40625 L 579.59375 41.40625 L 579.59375 434.84375 L 186.125 434.84375 L 186.125 41.40625 z M 588.625 41.40625 L 982.09375 41.40625 L 982.09375 434.84375 L 588.625 434.84375 L 588.625 41.40625 z "
-       id="rect15381" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       d="m -227.46875,31.21875 0,448 1220.65625,0 0,-448 -1220.65625,0 z m 11.09375,10.1875 393.4375,0 0,393.4375 -393.4375,0 0,-393.4375 z m 402.5,0 393.46875,0 0,393.4375 -393.46875,0 0,-393.4375 z m 402.5,0 393.46875,0 0,393.4375 -393.46875,0 0,-393.4375 z"
+       id="rect15381"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/danigm/Documents/tira/virtual.png"
+       inkscape:export-xdpi="50.139999"
+       inkscape:export-ydpi="50.139999" />
     <text
        xml:space="preserve"
        style="font-size:28.2477684px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu LGC Sans;-inkscape-font-specification:DejaVu LGC Sans"
@@ -5302,5 +5380,344 @@
          d="m 287.35669,1551.2844 -0.75791,16.241 2.27373,8.337 -6.17156,-0.5414"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3824"
+       width="197.44141"
+       height="53.923069"
+       x="-203.64778"
+       y="50.565342" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       x="-106.25177"
+       y="73.975281"
+       id="text3818"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3820"
+         x="-106.25177"
+         y="73.975281">CONVERSACIONES ENTRE</tspan><tspan
+         sodipodi:role="line"
+         x="-106.25177"
+         y="93.975281"
+         id="tspan3822">SERVIDORES</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3861"
+       width="138.25177"
+       height="43.806522"
+       x="-187.05675"
+       y="114.58907" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       x="-120.08106"
+       y="140.938"
+       id="text3826"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3828"
+         x="-120.08106"
+         y="140.938">HELO relay.lh.com</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3865"
+       width="169.49759"
+       height="66.364136"
+       x="-13.900596"
+       y="118.53822" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3836"
+       y="139.19516"
+       x="71.138832"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       xml:space="preserve"><tspan
+         y="139.19516"
+         x="71.138832"
+         id="tspan3838"
+         sodipodi:role="line">250 HOLA relay.lh.com,</tspan><tspan
+         y="159.19516"
+         x="71.138832"
+         sodipodi:role="line"
+         id="tspan3840">ENCANTADO DE</tspan><tspan
+         y="179.19516"
+         x="71.138832"
+         sodipodi:role="line"
+         id="tspan3842">CONOCERTE</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3863"
+       width="216.58025"
+       height="40.804974"
+       x="-200.43762"
+       y="192.7673" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3844"
+       y="217.23839"
+       x="-94.00975"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       xml:space="preserve"><tspan
+         y="217.23839"
+         x="-94.00975"
+         id="tspan3846"
+         sodipodi:role="line">MAIL FROM:&lt;bob@gmail.com&gt;</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3867"
+       width="73.538635"
+       height="33.630474"
+       x="34.975693"
+       y="225.05255" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       x="70.24202"
+       y="246.81267"
+       id="text3848"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3854"
+         sodipodi:role="line"
+         x="70.24202"
+         y="246.81267">250 OK</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 76.229072,182.45395 -1.793625,23.31713 9.416532,0 -1.793625,23.76553 4.932469,0 0.896813,-28.24959 -8.51972,0.89681 2.242031,-21.0751"
+       id="path3869"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 64.570508,255.54418 -3.587251,31.38844 32.733661,-2.69044 3.138844,14.79741 0.896812,-21.0751 -32.73366,2.69044 5.829282,-23.76553"
+       id="path3872"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -122.41492,155.99798 0.44841,17.03944 -19.72988,0 -0.89681,23.31713 4.48406,0.4484 0.4484,-17.93625 22.86873,-2.69044 0,-19.28147"
+       id="path3879"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -117.48245,228.6398 -0.89681,30.94004 -25.55916,1.79362 0,16.14263 -14.34901,-3.58725 -4.03565,17.93625 -42.15019,9.86494 47.53106,-7.62291 0.89682,-15.24581 16.59103,4.48406 0.44841,-17.03944 27.35278,-3.58725 -1.34522,-32.73366"
+       id="path3881"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4006"
+       width="207.85362"
+       height="54.062935"
+       x="201.73267"
+       y="60.55925" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       x="306.43457"
+       y="84.024307"
+       id="text3904"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3906"
+         x="306.43457"
+         y="84.024307">¿ALGUNA VEZ HAS PENSADO</tspan><tspan
+         sodipodi:role="line"
+         x="306.43457"
+         y="104.02431"
+         id="tspan3908">EN SI ERES REAL O VIRTUAL?</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4008"
+       width="143.48901"
+       height="49.290119"
+       x="413.74643"
+       y="105.33836" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3910"
+       y="126.02431"
+       x="486.43457"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       xml:space="preserve"><tspan
+         id="tspan3914"
+         y="126.02431"
+         x="486.43457"
+         sodipodi:role="line">501 NO... NUNCA LO</tspan><tspan
+         y="146.02431"
+         x="486.43457"
+         sodipodi:role="line"
+         id="tspan3918">HABÍA PENSADO</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4012"
+       width="204.13301"
+       height="95.046059"
+       x="199.65259"
+       y="155.2049" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3920"
+       y="178.02431"
+       x="300.43457"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       xml:space="preserve"><tspan
+         id="tspan3924"
+         y="178.02431"
+         x="300.43457"
+         sodipodi:role="line">YO CREO QUE SOY REAL,</tspan><tspan
+         y="198.02431"
+         x="300.43457"
+         sodipodi:role="line"
+         id="tspan3928">PORQUE TENGO MUCHA RAM</tspan><tspan
+         y="218.02431"
+         x="300.43457"
+         sodipodi:role="line"
+         id="tspan3930">PARA SER UN VIRTUAL DE</tspan><tspan
+         y="238.02431"
+         x="300.43457"
+         sodipodi:role="line"
+         id="tspan3932">ESOS</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4010"
+       width="143.96942"
+       height="71.254898"
+       x="428.46704"
+       y="186.00168" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       x="500.43457"
+       y="208.02431"
+       id="text3934"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3942"
+         sodipodi:role="line"
+         x="500.43457"
+         y="208.02431">501 ¿Y QUÉ MÁS</tspan><tspan
+         sodipodi:role="line"
+         x="500.43457"
+         y="228.02431"
+         id="tspan3953">DA? SER VIRTUAL O</tspan><tspan
+         sodipodi:role="line"
+         x="500.43457"
+         y="248.02431"
+         id="tspan3955">REAL, ES LO MISMO.</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4014"
+       width="242.31531"
+       height="105.63859"
+       x="191.79228"
+       y="299.81845" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       x="310.43457"
+       y="318.02429"
+       id="text3957"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3965"
+         sodipodi:role="line"
+         x="310.43457"
+         y="318.02429">SÍ IMPORTA, NO ES LO MISMO</tspan><tspan
+         sodipodi:role="line"
+         x="310.43457"
+         y="338.02429"
+         id="tspan3976">QUE TODO SEA UNA MENTIRA,</tspan><tspan
+         sodipodi:role="line"
+         x="312.5127"
+         y="358.02429"
+         id="tspan3978">QUE ESTE PROCESADOR QUE </tspan><tspan
+         sodipodi:role="line"
+         x="310.43457"
+         y="378.02429"
+         id="tspan3980">SIENTO NO SEA ALGO REAL, SINO</tspan><tspan
+         sodipodi:role="line"
+         x="310.43457"
+         y="398.02429"
+         id="tspan3982">UNA ILUSIÓN COMPARTIDA...</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4016"
+       width="176.59125"
+       height="41.042614"
+       x="781.42981"
+       y="51.678432" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       x="870.53546"
+       y="78.680153"
+       id="text3984"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3986"
+         x="870.53546"
+         y="78.680153">554 Transaction failed</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4018"
+       width="186.31187"
+       height="96.666161"
+       x="738.06689"
+       y="133.98341" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3988"
+       y="158.68015"
+       x="830.53546"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Margarine;-inkscape-font-specification:Margarine"
+       xml:space="preserve"><tspan
+         y="158.68015"
+         x="830.53546"
+         sodipodi:role="line"
+         id="tspan3996">A TOMAR POR CULO LA</tspan><tspan
+         y="178.68015"
+         x="830.53546"
+         sodipodi:role="line"
+         id="tspan4000">CONEXIÓN. ESTOY HARTO</tspan><tspan
+         y="198.68015"
+         x="830.53546"
+         sodipodi:role="line"
+         id="tspan4002">DE LA FILOSOFÍA DE</tspan><tspan
+         y="218.68015"
+         x="830.53546"
+         sodipodi:role="line"
+         id="tspan4004">VPS BARATOS</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 272.71737,108.38204 -0.54003,23.76152 21.06134,-3.78024 1.6201,32.40206 4.32028,-4.86031 -0.54003,-32.40206 -22.14141,2.70017 1.6201,-14.58093"
+       id="path4020"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 300.79916,241.23051 1.08007,31.32199 -39.42251,1.62011 0.54004,29.16185 7.02044,-1.08007 -2.16014,-21.60137 38.88248,-4.86031 0,-29.70189"
+       id="path4022"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 277.03765,404.3209 1.08007,10.80069 -14.58093,0.54003 1.08007,9.72062 -70.74451,-0.54003 75.06478,2.16014 -0.54003,-9.18059 15.12096,-0.54003 1.62011,-17.82114"
+       id="path4025"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 476.85038,149.96469 -0.54004,16.20103 15.661,-0.54003 1.62011,22.68145 7.56048,0 -4.32028,-25.92166 -15.661,-1.08006 0,-10.26066"
+       id="path4027"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 494.67151,253.6513 0.54004,17.82113 -17.82114,1.62011 2.70018,23.76151 2.16013,-19.44124 18.90121,-1.08007 0.54003,-21.60137"
+       id="path4029"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 870.53546,90.020874 0.54003,14.040896 -56.70361,0.54003 1.62011,34.02217 5.94037,-1.08007 -3.2402,-29.70189 58.86375,1.08007 -0.54004,-18.901206"
+       id="path4031"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 828.41278,227.72965 -1.08007,21.06134 38.34244,-3.78024 -1.6201,21.06134 27.54175,-1.08007 -0.54003,24.84158 7.02044,-31.86203 -28.62182,1.62011 1.08007,-19.44124 -38.34244,2.70017 1.08007,-16.74107"
+       id="path4033"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
