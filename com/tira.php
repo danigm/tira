@@ -12,7 +12,19 @@ function getext($filename) {
  return $ext;
 } 
 
-	$db = $_GET['db'];
+    $dbbase = $_GET['db'];
+    $tirabase = $_GET['tira'];
+    $db = htmlspecialchars($_GET['db']);
+    $tira = htmlspecialchars($_GET['tira']);
+
+    if (strlen($db) != strlen($dbbase) ||
+        strlen($tira) != strlen($tirabase)) {
+            echo "<strong>db mal</strong>";
+            echo "<br>";
+            echo "<a href=\"../tira.html\">volver</a>";
+            exit;
+    }
+
 	$db = basename($db);
 	if(getext($db) != "lhcmt"){
 		echo "<strong>db mal</strong>";
@@ -21,14 +33,13 @@ function getext($filename) {
 		exit;
 	}
 
-	$tira = $_GET['tira'];
 	$tira = basename($tira);
 	$tira = rtrim($tira);
 	$img1 = rtrim($img1);
-	if($tira == $img1){
-		echo '<script>window.location="../index.php";</script>';
-		echo '<a href="../index.php">Comenta la tira</a><br>';
-	}
+	#if($tira == $img1){
+	#	echo '<script>window.location="../index.php";</script>';
+	#	echo '<a href="../index.php">Comenta la tira</a><br>';
+	#}
 ?>
 
 <!--
@@ -56,7 +67,7 @@ function getext($filename) {
 <center>
 <?php
 
-	echo "<img src=\"http://sugus.eii.us.es/~danigm/tira/".$tira.".png\" alt=\"".$tira."\"/>";
+	echo "<img src=\"../".$tira.".png\" alt=\"".$tira."\"/>";
 	echo "<br/>";
 	if($cad1)
 	   echo('<a href="tira.php?tira='.$cad1.'&amp;db='.$cad1.'.lhcmt"><-anterior</a>');
@@ -64,7 +75,11 @@ function getext($filename) {
 	echo('<a href="tira.php?tira='.$cad2.'&amp;db='.$cad2.'.lhcmt">siguiente-></a>');
 ?>
 </center>
-<br>
+<div id="alert">
+<h3>Atenci&oacute;n!</h3>
+A partir de ahora la tira se publica en <a href="http://linuxhispano.net/portal/tira">http://linuxhispano.net/portal/tira</a>
+</div>
+<br/>
 <table border="0" width="100%">
 <th>Comentarios</th>
 <?php
