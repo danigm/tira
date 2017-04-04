@@ -3,10 +3,8 @@
 ./imagen.sh ../$1.png
 scp ../vinieta.png danigm@danigm.net:www/tira/
 
-pub="ftp://linuxhispano.net/public_html/tira/"
-USER="linuxhis"
-#read -s -p "linuxhis - Password:" PASS
-#lftp -u $USER,$PASS $pub -e "put ../vinieta.png ../$1.png; exit"
+scp ../$1.png lh:/var/www/html/tira/
+scp ../vinieta.png lh:/var/www/html/tira/
 
 cat wordpress.html | sed "s/IMG/$1/g"
 
