@@ -3,8 +3,8 @@
 ./imagen.sh ../$1.png
 scp ../vinieta.png danigm@danigm.net:www/tira/
 
-scp ../$1.png lh:/var/www/html/tira/
-scp ../vinieta.png lh:/var/www/html/tira/
+./ftp.sh ../$1.png
+./ftp.sh ../vinieta.png
 
 cat wordpress.html | sed "s/IMG/$1/g"
 
