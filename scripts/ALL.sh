@@ -2,6 +2,7 @@
 
 ./imagen.sh ../$1.png
 scp ../vinieta.png danigm@danigm.net:www/tira/
+scp ../vinieta.png danigm@danigm.net:danigm.net/output/
 
 # ./ftp.sh ../$1.png
 ./ftp.sh ../vinieta.png
