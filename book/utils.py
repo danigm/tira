@@ -38,8 +38,8 @@ def get_all():
     tiras = open('../lista.txt').readlines()
     tiras = [x.strip() for x in tiras]
     all = [x.strftime("%d de %B de %Y") for x in all]
-    tiras_dates = zip(tiras, all)
-    return reversed(tiras_dates)
+    tiras_dates = zip(reversed(tiras), reversed(all))
+    return tiras_dates
 
 def generate():
     for t, d in get_all():
