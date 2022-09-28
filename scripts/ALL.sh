@@ -1,9 +1,6 @@
 #!/bin/bash
 
 ./imagen.sh ../$1.png
-scp ../vinieta.png ovh:www/tira/
-scp ../vinieta.png ovh:www/blog/
-
 # ./ftp.sh ../$1.png
 ./ftp.sh ../vinieta.png
 
