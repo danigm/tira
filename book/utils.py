@@ -39,7 +39,7 @@ def get_all():
     tiras = [x.strip() for x in tiras]
     all = [x.strftime("%d de %B de %Y") for x in all]
     tiras_dates = zip(reversed(tiras), reversed(all))
-    return tiras_dates
+    return reversed(tiras_dates)
 
 def generate():
     for t, d in get_all():
