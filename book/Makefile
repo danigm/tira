@@ -91,7 +91,7 @@ doctest:
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
 tiras:
-	python utils.py
+	python3 utils.py
 
 all-tiras:
-	python utils.py -f
+	python3 utils.py -f
