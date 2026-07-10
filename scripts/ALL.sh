@@ -1,6 +1,10 @@
 #!/bin/bash
 
-./imagen.sh ../$1.png
+set -e
+
+cp ../$1.png $1.png
+./imagen.sh $1.png
+mv $1.png ../$1.png
 # ./ftp.sh ../$1.png
 ./ftp.sh ../vinieta.png
 
